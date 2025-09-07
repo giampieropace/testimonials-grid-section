@@ -30,7 +30,7 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/bootstrap-studio-recipe-page-aOpsVoQRKG)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonial-grid-section-using-bootstrap-studio-DTiy_OB4sb)
 - Live Site URL: [CloudFlare Pages](https://testimonials-grid-section-9so.pages.dev/)
 
 ## My process
