@@ -124,7 +124,7 @@ section.testimonials {
   .tetimonial-purple {
     background: url("../../assets/img/bg-pattern-quotation.svg") top right/auto no-repeat;
     background-position-x: 80%;
-    background-position-y: 5%;
+    background-position-y: 8%;
     background-color: hsl(263, 55%, 52%);
   }
 }
