@@ -2,13 +2,16 @@ body {
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
   color: hsl(0, 0%, 100%);
-  background-color: hsl(214, 17%, 92%);
+  background-color: hsl(0, 0%, 100%);
 }
 
 section.testimonials {
   padding: 0 35px 71px;
   margin: 73px auto 0;
   width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .cards-container {
